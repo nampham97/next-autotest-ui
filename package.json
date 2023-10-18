@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@heroicons/react": "^2.0.18",
+    "next": "13.5.5",
+    "rc-table": "^7.35.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.5"
+    "react-js-pagination": "^3.0.3",
+    "react-pure-modal": "^2.2.5",
+    "react-transition-group": "^4.4.5"
   },
   "devDependencies": {
     "autoprefixer": "^10",
